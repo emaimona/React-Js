@@ -1,0 +1,23 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #3a3834;
+}
+
+#root {
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    justify-self: center;
+}
+
+.card {
+    justify-items: center;
+    background-color: #222320;
+    color: white;
+    width: 23rem;
+}
